@@ -4,26 +4,30 @@
 
 <h1 data-importer="text" align="center">Hey 👋 Welcome to POV_MEAS</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Dynamic_Date-July_2026-blue?style=for-the-badge&logo=github" alt="Current Date Badge" />
+</p>
+
 ###
 
 <p align="center">We are the engineering team behind <b>POV_MEAS</b>. Here is the modern tech stack we utilize to build, test, and deploy our project:</p>
 
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mssql" height="60" alt="sql server logo"  />
+  <img src="https://skillicons.dev/icons?i=mssql" height="60" alt="sql server logo"   />
 </div>
 
 ###
@@ -31,11 +35,11 @@
 <p align="center"><b>Connect with our team:</b></p>
 
 <div data-importer="socials" align="center">
-  <a href="YOUR_FACEBOOK_PAGE_URL"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
-  <a href="YOUR_FACEBOOK_PAGE_URL"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
-  <a href="YOUR_FACEBOOK_PAGE_URL"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
-  <a href="YOUR_FACEBOOK_PAGE_URL"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
-  <a href="YOUR_FACEBOOK_PAGE_URL"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
+  <a href="SONITA_FACEBOOK_URL"><img src="https://img.shields.io/static/v1?message=Khorn+Sonita&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
+  <a href="CHHANGNGOR_FACEBOOK_URL"><img src="https://img.shields.io/static/v1?message=Phal+Chhangngor&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
+  <a href="SREYLIN_FACEBOOK_URL"><img src="https://img.shields.io/static/v1?message=Sorn+Sreylin&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
+  <a href="PANHA_FACEBOOK_URL"><img src="https://img.shields.io/static/v1?message=Nhor+Panha&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
+  <a href="HOKSENG_FACEBOOK_URL"><img src="https://img.shields.io/static/v1?message=Hen+Hokseng&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
 </div>
 
 ###
@@ -43,7 +47,7 @@
 <p align="center"><b>Our Development Activity & Trophies:</b></p>
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=theLinDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=khornsonita09-commits&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"   />
 </div>
 
 ###
@@ -57,4 +61,3 @@
 - 👨‍💻 Sorn Sreylin — UI/UX Designer  
 - 👨‍💻 Nhor Panha — DevOps Engineer  
 - 👨‍💻 Hen Hokseng — Network Engineer
-
