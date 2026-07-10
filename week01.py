@@ -1,12 +1,22 @@
-from unittest import result
+word = int(input("Please enter Word score: "))
+excel = int(input("Please enter Excel score: "))
+powerpoint = int(input("Please enter PowerPoint score: "))
 
-word = int(input("Please enter word: "))
-exel = int(input("Please enter exel: "))
-powerpoint = int(input("Please enter powerpoint: "))
+total = (word + excel + powerpoint) // 3
 
-total = ( word + exel + powerpoint ) // 3
+if total >= 90:
+    grade = "A"
+elif total >= 80:
+    grade = "B"
+elif total >= 70:
+    grade = "C"
+elif total >= 60:
+    grade = "D"
+else:
+    grade = "F"
 
-border = "=" * 36
+border = "=" * 27
 print(border)
-print(f"=   Results : Average is : {float(total)}    =")
+print(f"=  Average Score : {total:.2f}  =")
+print(f"=  Grade         : {grade}      =")
 print(border)
