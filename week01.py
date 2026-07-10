@@ -1,5 +1,5 @@
-hour = 35  
+hour = 35
 rate = 7
 
 paid = hour * rate
-print(paid)
+print(f"Paid :  $ {paid}")
