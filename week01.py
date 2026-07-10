@@ -1,10 +1,13 @@
-print("Your hour is : 60 minutes")
-seconds = int(input("Please enter seconds: "))
 
-total_minutes = seconds // 60
-border = "=" * 35
+bill = int(input("Please enter bill: $ "))
+tip = float(input("Please enter tip: % "))
 
-total_seconds = seconds % 60
+tip = ( bill *  tip )// 100
+total = bill + tip
+
+
+border = "=" * 21
+
 print(border)
-print(f"=  Results : {total_minutes} minute {total_seconds} seconds  =")
+print(f"=  Results : {tip} $  =")
 print(border)
