@@ -6,8 +6,10 @@ tip = ( bill *  tip )// 100
 total = bill + tip
 
 
-border = "=" * 21
+border = "=" * 30
 
 print(border)
-print(f"=  Results : {tip} $  =")
+print(f"=   Results : Price {total} $   =")
+print(f"=   Results : Tip {tip} $      =")
+
 print(border)
