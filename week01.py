@@ -1,15 +1,12 @@
+from unittest import result
 
-bill = int(input("Please enter bill: $ "))
-tip = float(input("Please enter tip: % "))
+word = int(input("Please enter word: "))
+exel = int(input("Please enter exel: "))
+powerpoint = int(input("Please enter powerpoint: "))
 
-tip = ( bill *  tip )// 100
-total = bill + tip
+total = ( word + exel + powerpoint ) // 3
 
-
-border = "=" * 30
-
+border = "=" * 36
 print(border)
-print(f"=   Results : Price {total} $   =")
-print(f"=   Results : Tip {tip} $      =")
-
+print(f"=   Results : Average is : {float(total)}    =")
 print(border)
