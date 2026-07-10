@@ -1,10 +1,10 @@
-print("Your rate is : 7")
-hour = int(input("Please enter hour: "))
+print("Your hour is : 60 minutes")
+seconds = int(input("Please enter seconds: "))
 
-rate = 7
-border = "=" * 30
-paid = hour * rate
+total_minutes = seconds // 60
+border = "=" * 35
+
+total_seconds = seconds % 60
 print(border)
-print(f"=       Paid: {hour} * {rate}         =")
-print(f"=      Result :  $ {paid}       =")
+print(f"=  Results : {total_minutes} minute {total_seconds} seconds  =")
 print(border)
