@@ -53,11 +53,17 @@
   <em>Project Contributors & Development Team</em>
 </p>
 
+<!-- Mobile Responsive Animation -->
+<div align="center">
+  <img src="https://i.imgflip.com/axbx0v.gif" style="max-width: 100%; max-height: 200px; height: 200px;" alt="Team Animation" />
+</div>
+<br/>
+
 <div align="center">
   <table width="100%">
     <tr>
       <!-- Left Column: Table -->
-      <td width="65%" valign="top">
+      <td width="100%" valign="top">
         <table width="100%">
           <thead>
             <tr>
@@ -94,10 +100,6 @@
             </tr>
           </tbody>
         </table>
-      </td>
-      <!-- Right Column: Avatar/Logo -->
-      <td width="50%" align="center" valign="middle">
-        <img align="right" height="250" src="https://i.imgflip.com/axbx0v.gif" alt="Team Animation" />
       </td>
     </tr>
   </table>
