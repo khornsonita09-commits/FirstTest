@@ -96,8 +96,8 @@
         </table>
       </td>
       <!-- Right Column: Avatar/Logo -->
-      <td width="100%" align="center" valign="middle">
-        <img height="300" src="https://i.imgflip.com/axbwex.gif"/>
+      <td width="50%" align="center" valign="middle">
+        <img align="right" height="250" src="https://i.imgflip.com/axbx0v.gif" alt="Team Animation" />
       </td>
     </tr>
   </table>
