@@ -104,3 +104,27 @@
     </tr>
   </table>
 </div>
+
+###
+
+<p align="center"><b>Our Development Activity & Analytics:</b></p>
+
+<!-- GitHub Top Languages Graph -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khornsonita09-commits&layout=compact&theme=dracula&hide_border=false&count_private=true" height="150" style="max-width: 100%;" alt="Top Languages Graph" />
+</div>
+
+<br/>
+
+<!-- GitHub Streak Graph -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=khornsonita09-commits&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" style="max-width: 100%;" alt="Streak Graph" />
+</div>
+
+<br/>
+
+<!-- Contribution Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khornsonita09-commits&theme=github-dark" height="150" style="max-width: 100%;" alt="Contribution Activity Graph" />
+</div>
+
