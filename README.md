@@ -23,11 +23,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"   />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"   />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mssql" height="60" alt="sql server logo"   />
 </div>
 
 ###
