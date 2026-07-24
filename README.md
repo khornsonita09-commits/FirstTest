@@ -55,7 +55,7 @@
 
 <!-- Mobile Responsive Animation -->
 <div align="center">
-  <img src="https://i.imgflip.com/axbx0v.gif" style="max-width: 100%; max-height: 200px; height: 200px;" alt="Team Animation" />
+  <img src="https://i.imgflip.com/axbx0v.gif" style="max-width: 100%; max-height: 250px; height: 250px;" alt="Team Animation" />
 </div>
 <br/>
 
