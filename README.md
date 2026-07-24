@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"/>
+  <img height="300" src="https://i.imgflip.com/axbv4r.gif"/>
 </div>
 
-<h1 data-importer="text" align="center">Hey 👋 Welcome to POV_MEAS</h1>
+<h1 data-importer="text" align="center">POV_MEAS</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dynamic_Date-July_2026-blue?style=for-the-badge&logo=github" alt="Current Date Badge" />
@@ -35,11 +35,11 @@
 <p align="center"><b>Connect with our team:</b></p>
 
 <div data-importer="socials" align="center">
-  <a href="SONITA_FACEBOOK_URL"><img src="https://img.shields.io/static/v1?message=Khorn+Sonita&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
-  <a href="CHHANGNGOR_FACEBOOK_URL"><img src="https://img.shields.io/static/v1?message=Phal+Chhangngor&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
-  <a href="SREYLIN_FACEBOOK_URL"><img src="https://img.shields.io/static/v1?message=Sorn+Sreylin&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
-  <a href="PANHA_FACEBOOK_URL"><img src="https://img.shields.io/static/v1?message=Nhor+Panha&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
-  <a href="HOKSENG_FACEBOOK_URL"><img src="https://img.shields.io/static/v1?message=Hen+Hokseng&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Khorn+Sonita&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Phal+Chhangngor&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Sorn+Sreylin&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Nhor+Panha&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Hen+Hokseng&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
 </div>
 
 ###
@@ -52,12 +52,58 @@
 
 ###
 
-## 🤝 Team Members
+<h1 align="center">🤝 Team Members</h1>
 
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif"/>
+<p align="center">
+  <em>Project Contributors & Development Team</em>
+</p>
 
-- 👨‍💻 Khorn Sonita — Frontend Developer  
-- 👨‍💻 Phal Chhangngor — Backend Developer  
-- 👨‍💻 Sorn Sreylin — UI/UX Designer  
-- 👨‍💻 Nhor Panha — DevOps Engineer  
-- 👨‍💻 Hen Hokseng — Network Engineer
+<div align="center">
+  <table width="100%">
+    <tr>
+      <!-- Left Column: Table -->
+      <td width="65%" valign="top">
+        <table width="100%">
+          <thead>
+            <tr>
+              <th align="left">Member Name</th>
+              <th align="center">Student ID</th>
+              <th align="center">Role</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>👨‍💻 <b>Khorn Sonita</b></td>
+              <td align="center"><code>2023-1170</code></td>
+              <td align="center"><code>Developer</td>
+            </tr>
+            <tr>
+              <td>👨‍💻 <b>Phal Chhangngor</b></td>
+              <td align="center"><code>2023-1053</code></td>
+              <td align="center"><code>Developer</td>
+            </tr>
+            <tr>
+              <td>👨‍💻 <b>Sorn Sreylin</b></td>
+              <td align="center" color="e67e22"><code>2023-1441</code></td>
+              <td align="center"><code>Developer</td>
+            </tr>
+            <tr>
+              <td>👨‍💻 <b>Nhor Panha</b></td>
+              <td align="center"><code>2023-1036</code></td>
+              <td align="center"><code>Developer</td>
+            </tr>
+            <tr>
+              <td>👨‍💻 <b>Hen Hokseng</b></td>
+              <td align="center"><code>2023-1035</code></td>
+              <td align="center"><code>Developer</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <!-- Right Column: Avatar/Logo -->
+      <td width="100%" align="center" valign="middle">
+        <img height="300" src="https://i.imgflip.com/axbwex.gif"/>
+      </td>
+    </tr>
+  </table>
+</div>
