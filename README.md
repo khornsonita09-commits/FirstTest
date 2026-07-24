@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.imgflip.com/axbv4r.gif"/>
+  <img height="320" src="https://i.imgflip.com/axbyzo.gif"/>
 </div>
 
 <h1 data-importer="text" align="center">POV_MEAS</h1>
