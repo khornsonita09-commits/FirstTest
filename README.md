@@ -45,6 +45,13 @@
   <img src="https://streak-stats.demolab.com?user=khornsonita09-commits&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"   />
 </div>
 
+<br/>
+
+<!-- Contribution Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khornsonita09-commits&theme=github-dark" height="150" style="max-width: 100%;" alt="Contribution Activity Graph" />
+</div>
+
 ###
 
 <h1 align="center">🤝 Team Members</h1>
@@ -69,34 +76,28 @@
             <tr>
               <th align="left">Member Name</th>
               <th align="center">Student ID</th>
-              <th align="center">Role</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <td>👨‍💻 <b>Khorn Sonita</b></td>
               <td align="center"><code>2023-1170</code></td>
-              <td align="center"><code>Developer</td>
             </tr>
             <tr>
               <td>👨‍💻 <b>Phal Chhangngor</b></td>
               <td align="center"><code>2023-1053</code></td>
-              <td align="center"><code>Developer</td>
             </tr>
             <tr>
               <td>👨‍💻 <b>Sorn Sreylin</b></td>
               <td align="center" color="e67e22"><code>2023-1441</code></td>
-              <td align="center"><code>Developer</td>
             </tr>
             <tr>
               <td>👨‍💻 <b>Nhor Panha</b></td>
               <td align="center"><code>2023-1036</code></td>
-              <td align="center"><code>Developer</td>
             </tr>
             <tr>
               <td>👨‍💻 <b>Hen Hokseng</b></td>
               <td align="center"><code>2023-1035</code></td>
-              <td align="center"><code>Developer</td>
             </tr>
           </tbody>
         </table>
@@ -106,25 +107,4 @@
 </div>
 
 ###
-
-<p align="center"><b>Our Development Activity & Analytics:</b></p>
-
-<!-- GitHub Top Languages Graph -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khornsonita09-commits&layout=compact&theme=dracula&hide_border=false&count_private=true" height="150" style="max-width: 100%;" alt="Top Languages Graph" />
-</div>
-
-<br/>
-
-<!-- GitHub Streak Graph -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=khornsonita09-commits&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" style="max-width: 100%;" alt="Streak Graph" />
-</div>
-
-<br/>
-
-<!-- Contribution Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khornsonita09-commits&theme=github-dark" height="150" style="max-width: 100%;" alt="Contribution Activity Graph" />
-</div>
 
