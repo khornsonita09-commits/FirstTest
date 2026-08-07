@@ -1,4 +1,4 @@
-fruits = ["apple", "banana", "cherry"]
+fruits = ["You", "banana", "cherry"]
 
 for fruit in fruits:
-    print(f"I like {fruit}")
+    print(f"I love {fruit}!")
