@@ -1,5 +1,5 @@
-count = 5
+count = 2
 
-while count <= 10:
-    print(f"Loading step {count}")
-    count += 1
+while count <= 16:
+    print(f"I love you babies {count} ...")
+    count += 2
