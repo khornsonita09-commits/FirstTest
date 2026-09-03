@@ -1,0 +1,9 @@
+INFO User login successful
+INFO Database connected
+ERROR Database connection failed
+WARNING Disk space low
+ERROR Authentication failed
+INFO User logout successful
+INFO Backup completed
+WARNING CPU usage high
+ERROR Network connection failed
